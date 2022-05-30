@@ -10,6 +10,23 @@ Source: Manually created
 
 Mohit Raj, Ritesh Kumar
 
+## References
+```
+@incollection{kumar_developing_2014,
+	address = {Switzerland},
+	series = {Lecture {Notes} in {Computer} {Science}},
+	title = {Developing {LRs} for {Non}-scheduled {Indian} {Languages}: {A} {Case} of {Magahi}},
+	url = {DOI: 10.1007/978-3-319-08958-4_40},
+	booktitle = {Human {Language} {Technology} {Challenges} for {Computer} {Science} and {Linguistics}},
+	publisher = {Springer International Publishing},
+	author = {Kumar, Ritesh and Lahiri, Bornini and Alok, Deepak},
+	year = {2014},
+	note = {original-date: 2014},
+	pages = {491--501},
+}
+
+```
+
 ## Paradigm Samples
 
 ### Paradigm of the Magahi Verb देख 'to see'
